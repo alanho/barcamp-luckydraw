@@ -1,0 +1,33 @@
+body {
+	background: #D21D36;
+	text-align: center;
+}
+
+#draw_trigger {
+	line-height: 150px;
+	background: #A10D20;
+	color: #fff;
+	width: 400px;
+	height: 150px;
+	padding: 16px;
+	margin-top: 80px;
+	border-radius: 5px;
+	display: inline-block;
+	color: #EBC8C8;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 34px;
+}
+
+#logo {
+	width: 183px;
+	height: 51px;
+	background: url(http://barcamp.hk/images/barcamp.png) no-repeat;
+	text-indent: -9999px;
+	margin-left: 20px;
+}
+
+#result {
+	color: #fff;
+	font-size: 45px;
+}
